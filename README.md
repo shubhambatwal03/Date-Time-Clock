@@ -9,7 +9,7 @@ A modern and minimal digital clock built with **React** and **Vite**. This proje
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/shubhambatwal03/Data-Time-Clock.git
-   cd clock-app
+   cd Data-Time-Clock
 
 2. **Install Dependancies**
    ```bash
