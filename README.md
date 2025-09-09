@@ -52,7 +52,7 @@ A modern and minimal digital clock built with **React** and **Vite**. This proje
    Vite
    Tailwindcss
 
----
+```
 
 **📸 Preview**
 
