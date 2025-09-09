@@ -4,16 +4,6 @@ A modern and minimal digital clock built with **React** and **Vite**. This proje
 
 ---
 
-## ✨ Features
-
-- **Live Digital Clock**: Always shows the current time, updating every second.
-- **Responsive Design**: Looks great on desktop and mobile.
-- **Component-Based**: Organized React components for easy maintenance.
-- **Modern Stack**: Built with [Vite](https://vitejs.dev/) for fast development and [ESLint](https://eslint.org/) for code quality.
-- **Custom Styling**: Easily customizable with CSS.
-
----
-
 ## 🚀 Getting Started
 
 1. **Clone the Repository**
@@ -36,29 +26,31 @@ A modern and minimal digital clock built with **React** and **Vite**. This proje
 ---
 
 **📁 Project Structure**
-Clock/
-├── public/
-│   └── vite.svg
-├── src/
-│   ├── App.jsx
-│   ├── App.css
-│   ├── main.jsx
-│   ├── assets/
-│   │   └── react.svg
-│   └── components/
-│       ├── Item1.jsx
-│       └── Item2.jsx
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
+```
+   Clock/
+    ├── public/
+    │   └── vite.svg
+    ├── src/
+    │   ├── App.jsx
+    │   ├── App.css
+    │   ├── main.jsx
+    │   ├── assets/
+    │   │   └── react.svg
+    │   └── components/
+    │       ├── Item1.jsx
+    │       └── Item2.jsx
+    ├── index.html
+    ├── package.json
+    ├── vite.config.js
+    └── README.md
 
----
+```
 
 **🛠️ Built With**
-*React
-*Vite
-*Tailwindcss
+```
+   React
+   Vite
+   Tailwindcss
 
 ---
 
@@ -67,4 +59,4 @@ Clock/
 ---
 
 **🙋‍♂️ Author**
-Made with ❤️ by **Shubz**
+   Made with ❤️ by **Shubz**
